@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df06bb7083f58ec44b0e6e4cb6649693
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.4.4
+  assetPath: Assets/NOT_Lonely/Advanced Cable Creator/Samples/RuntimePlacementAndUpdates/Point.prefab
+  uploadId: 853002

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fc4b4dddd942fe458f6cca18e6b7230
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.4.4
+  assetPath: Assets/NOT_Lonely/Advanced Cable Creator/Shaders/NL_VertexAnim_tess.shader
+  uploadId: 853002

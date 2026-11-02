@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8cf11b8e96f0f44eba3835e4ef9d68d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.4.4
+  assetPath: Assets/NOT_Lonely/Advanced Cable Creator/Samples/RuntimePlacementAndUpdates/RuntimePlacementDemoSettings.lighting
+  uploadId: 853002

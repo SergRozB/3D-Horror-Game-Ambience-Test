@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 617a151eb73d1cc46bade5af6385484c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210228
+  packageName: Advanced Cable Creator
+  packageVersion: 1.4.4
+  assetPath: Assets/NOT_Lonely/Advanced Cable Creator/Samples/RuntimePlacementAndUpdates/RuntimePlacementDemo.unity
+  uploadId: 853002
